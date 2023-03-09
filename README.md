@@ -10,4 +10,4 @@ The code for the model is in the `model_f.ipynb` file.
 
 ## Predictions
 
-As predições finais selecionadas na plataforma estão presentes na pasta *output* no arquivo `lgb_v2000_final.csv`.
+The final predictions selected on the platform are present in the *output* folder in the `lgb_v2000_final.csv` file.
