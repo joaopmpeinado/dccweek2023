@@ -11,3 +11,7 @@ The code for the model is in the `model_f.ipynb` file.
 ## Predictions
 
 The final predictions selected on the platform are present in the *output* folder in the `lgb_v2000_final.csv` file.
+
+## Video Presentation
+
+[Artificial Psycho Killer Solution](https://drive.google.com/file/d/13S99vsA3zbD9y5hwkzarVEEf2KcF1vMx/view?ts=640a2d43)
